@@ -1,2 +1,11 @@
-# pharmaintel-agentic-ai
-PharmaIntel Agentic AI is a multi-agent intelligence platform designed to automate early-stage pharmaceutical research by analyzing clinical trials, patents, scientific literature, and market signals to deliver decision-ready insights faster and more efficiently.
+
+  # Enterprise SaaS Interface Design
+
+  This is a code bundle for Enterprise SaaS Interface Design. The original project is available at https://www.figma.com/design/EeKjNgrHjoQ9LQJTIWGd86/Enterprise-SaaS-Interface-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
