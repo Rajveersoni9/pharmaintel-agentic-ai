@@ -1,7 +1,7 @@
 
-  # Enterprise SaaS Interface Design
+  # pharmaintel-agentic-ai
 
-  This is a code bundle for Enterprise SaaS Interface Design. The original project is available at https://www.figma.com/design/EeKjNgrHjoQ9LQJTIWGd86/Enterprise-SaaS-Interface-Design.
+  This is a code bundle for pharmaintel-agentic-ai. The original project is available at https://www.figma.com/design/EeKjNgrHjoQ9LQJTIWGd86/Enterprise-SaaS-Interface-Desig.
 
   ## Running the code
 
